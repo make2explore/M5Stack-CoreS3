@@ -58,14 +58,14 @@ Refer the [Documentation website](http://docs.m5stack.com/en/core/CoreS3) for mo
 📒 **Important Links**  
  
 🌐 M5Stack - 🔗 https://docs.m5stack.com  
-📒 CoreS3 🔗 https://docs.m5stack.com/en/core/Cardputer%20V1.1  
-📙 CoreS3 Purchase 🔗 https://shop.m5stack.com/products/m5stack-cardputer-with-m5stamps3-v1-1  
+📒 CoreS3 🔗 http://docs.m5stack.com/en/core/CoreS3  
+📙 CoreS3 Purchase 🔗 https://shop.m5stack.com/products/m5stack-cores3-esp32s3-lotdevelopment-kit  
 ⚙️ UIFLow2 Web IDE Docs🔗 https://docs.m5stack.com/en/uiflow2/cardputer/program  
 ⚙️ Arduino IDE Docs 🔗 https://docs.m5stack.com/en/arduino/arduino_ide  
 📘 UIFLow2 Web IDE - 🔗 https://uiflow2.m5stack.com/  
 
 🧰 Hardware  
---   [CoreS3-Store]  🔗 https://shop.m5stack.com/products/m5stack-cardputer-with-m5stamps3-v1-1  
+--   [CoreS3-Store]  🔗 https://shop.m5stack.com/products/m5stack-cores3-esp32s3-lotdevelopment-kit  
 --   [Sensors]  🔗https://shop.m5stack.com/collections/m5-sensor  
 
 ------------------------------------------------------------------------------------------------------
