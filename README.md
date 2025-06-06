@@ -5,7 +5,11 @@ Device overview and Getting Started with M5Stack's Core S3 Dev Kit
   
 **M5Stack CoreS3** is the third-generation main unit of the M5Stack development kit series. Its core controller uses the ESP32-S3 solution, featuring a dual-core Xtensa LX7 processor with a main frequency of 240MHz. It comes with WiFi functionality, onboard 16M Flash and 8M-PSRAM, and supports program downloading via the TYPE-C interface. It also supports OTG and CDC functions, making it easy to connect USB devices and flash firmware. The front side is equipped with a 2.0-inch capacitive touch IPS screen, with the panel made of high-strength glass. Below the screen is a built-in 0.3MP camera GC0308, along with a proximity sensor LTR-553ALS-WA. 
   
+<img src="/Images/CoreS3-4.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/CoreS3-5.jpg" height="200" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/CoreS3-6.jpg" height="200" > 
+  
 The power section uses the AXP2101 power management chip and a 4-way power flow control circuit, designed with low power consumption in mind. The board includes a six-axis motion sensor BMI270 and a magnetometer BMM150, a TF-card (microSD) slot, and a BM8563 RTC chip, providing precise timing and sleep-timer wake-up functions. For sound output, it uses a high-fidelity 16-bit I2S amplifier chip AW88298, with a built-in 1W speaker. For sound input, it uses the ES7210 audio decoding chip with dual microphone input. On the side of the device, there are independent power and reset (RST) buttons, with a built-in delay circuit. Holding the reset button for a long time will enter the program download mode. 
+  
+<img src="/Images/CoreS3-7.jpg" height="200"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/CoreS3-8.jpg" height="200" > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="/Images/CoreS3-9.jpg" height="200" > 
   
 The CoreS3 kit comes with a DinBase base by default, making it easy to mount on DIN rails, walls, or screw-fixed installations. It can be powered by an external DC 12V (supports 9-24V) or an internal 500mAh lithium battery. The DinBase has multiple proto positions reserved for user DIY. This product is suitable for IoT development, various DIY projects, smart home control systems, and industrial automation control systems.  
   
