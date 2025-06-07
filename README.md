@@ -50,9 +50,9 @@ Refer the [Documentation website](http://docs.m5stack.com/en/core/CoreS3) for mo
 
 📕 **YouTube Video Links**  
 
-▶️  This Dev Kit Can See, Hear, and Think 🤖 🔗 https://youtube.com/shorts/lISfTsS8O2Q   
+▶️  CoreS3 This Dev Kit Can See, Hear, and Think 🤖 🔗 https://youtube.com/shorts/lISfTsS8O2Q   
   
-▶️  Voice, Vision, and Motion – CoreS3's Superpowers! 🔗  https://youtube.com/shorts/  
+▶️  CoreS3 is a Mini Powerhouse – Live Feature Test!🔗  https://youtube.com/shorts/  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
