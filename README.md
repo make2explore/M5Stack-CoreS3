@@ -54,7 +54,7 @@ Refer the [Documentation website](http://docs.m5stack.com/en/core/CoreS3) for mo
   
 ▶️  CoreS3 is a Mini Powerhouse – Live Feature Test! 🔗  https://youtube.com/shorts/mLMpzBVLU-w  
   
-▶️  Live Demo: CoreS3 as Your Smart Project Brain! 🔗  https://youtube.com/shorts/
+▶️  Live Demo: CoreS3 as Your Smart Project Brain! 🔗  https://youtube.com/shorts/eArTKw-0C3o
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
